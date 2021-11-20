@@ -610,13 +610,9 @@ a {
   color: #7b858b;
 }
 
-.block--dark .block__heading {
-  color: #fff;
-}
-
 .block--dark h1,
-h2,
-h3 {
+.block--dark h2,
+.block--dark h3 {
   color: #fff;
 }
 
