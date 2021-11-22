@@ -869,3 +869,7 @@ a {
     font-size: 1.5rem;
   }
 }
+
+.callout-signup {
+  transform: translateY(5rem);
+}
